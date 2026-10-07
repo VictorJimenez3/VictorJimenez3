@@ -56,7 +56,6 @@ Can a season's box-score and advanced stats predict the 15 All-NBA selections? I
 
 ### 🧠 Health, privacy & security
 
-- **[ADPitch](https://github.com/VictorJimenez3/ADPitch)**: A public hackathon prototype pairing sales-call transcription with physiology signals to explore post-call coaching insights.
 - **[Pace](https://devpost.com/software/pace-vcdzxw)**: An AI burnout-prevention concept combining voice memos and stress tracking.
 - **[SynapSense](https://devpost.com/software/synapsense)**: A research-oriented project exploring links between device activity and emotional responses. [Source](https://github.com/VictorJimenez3/SynapSense)
 - **[Quantumly Safe](https://devpost.com/software/q-safe)**: A cybersecurity prototype exploring quantum machine learning for suspicious login and network activity. [Source](https://github.com/VictorJimenez3/Quantumly-Safe)
