@@ -1,25 +1,91 @@
-### Hi, I'm Victor Jimenez 👋
-### I'm a Computer Science student passionate about building software that uses technology I love to solve problems. I specialize in artificial intelligence, machine learning, and software development. I'm passionate about applying it across diverse fields to see where I can make the most impact.
+# Hi, I'm Victor Jimenez 👋
 
-### MY PROJECTS:
-### 🧬 Human Health & Wellbeing:
-### • [**SenseLense**](https://github.com/VictorJimenez3/SenseLense): Emotion-aware AI transcription platform analyzing facial expressions, gaze, and body language synchronized to live transcripts.<br> • [**Pace**](https://github.com/VictorJimenez3/Pace): AI-powered burnout prevention platform combining voice memos, stress tracking, and proactive mental health intervention.<br> • [**TheBackPak**](https://github.com/VictorJimenez3/theBackPak): Wearable device for real-time posture tracking and live feedback.<br> • [**3S Spatial Awareness Assessment**](https://github.com/VictorJimenez3/threesAssessmentDigitized): Privacy-first cognitive health assessment platform using encrypted AI.<br> • [**SynapSense**](https://github.com/VictorJimenez3/SynapSense): Behavioral monitoring platform integrating network signals and neurotechnology.
+I'm a Computer Science student at **NJIT Honors** who builds AI, data, and full-stack projects. I like turning complicated signals into useful tools, from conversation intelligence to quantum finance experiments to NBA predictions.
 
-### 🌱 Education & Community:<br> 
-### • [**Illume**](https://github.com/VictorJimenez3/Illume): AI-powered Chrome extension that transforms highlighted web content into personalized, interactive learning modules — built for HackPrinceton.<br> • [**GoFundTree**](https://github.com/VictorJimenez3/GoFundTree): AR web app connecting urban users to real-world reforestation initiatives.<br> • [**Recipe AI Generator**](https://github.com/VictorJimenez3/AI-Recipe-Generator): AI-driven recipe generator to help university students eat on a budget.
+[LinkedIn](https://www.linkedin.com/in/vmj3/) · [Devpost Portfolio](https://devpost.com/vmj) · [GitHub](https://github.com/VictorJimenez3)
 
-### 🤖 AI & Systems:
-### • [**Multi-Agent Workspace**](https://github.com/VictorJimenez3/Multi-Agent-Workspace/): Multi-agent collaborative workspace built at HackMIT — integrates AI agents, semantic file search via LightRAG, and real-time voice/chat coordination.<br> • [**All-NBA Team ML Classifier**](https://github.com/VictorJimenez3/CS-375-All-Nba-Team-ML-Classifier): Machine learning classifier predicting All-NBA team selections from player statistics. 
+## 🏆 Award-winning projects
 
-### ⚛️ Quantum & Security:
-### • [**QuStoch**](https://github.com/VictorJimenez3/qustoch): Quantum-accelerated stochastic stock market simulator.<br> • [**Quantumly Safe**](https://github.com/VictorJimenez3/Q-Safe): Quantum-enhanced cybersecurity platform for real-time DDoS and login anomaly detection.
+### 🧬 [SenseLense](https://devpost.com/software/saleslense)
 
-### 🏆 Highlights:<br> • 1st Place AI & Analytics — HackHERS (SenseLense)<br> • Selected Participant — HackMIT (13% acceptance rate, 1,000+ competitors)<br> • 1st Place Fintech — HackNYU 2025 (QuStoch)<br> • 1st Place Overall — HackNJIT 2024 (TheBackPak)<br> • Best Security Hack — HackRU 2024 (3S Spatial Awareness Assessment)
+Emotion-aware sales-call insights that align speech transcripts with facial-expression signals.
 
-### 📬 Let's Connect:<br> • [LinkedIn](https://www.linkedin.com/in/vmj3/)<br> • [Devpost Portfolio](https://devpost.com/vmj) <br><br>Thanks for stopping by!
+**AI & Analytics Track Winner · HackHERS 2026**<br>
+[Devpost](https://devpost.com/software/saleslense) · [Source](https://github.com/VictorJimenez3/SenseLense)
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+### ⚛️ [QuStoch](https://devpost.com/software/qustoch)
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=VictorJimenez3&theme=dark&hide_border=false)<br/>
+A quantum-computing experiment in stochastic stock-market simulation, with an interactive results dashboard.
+
+**Best Fintech Hack · HackNYU 2025**<br>
+[Devpost](https://devpost.com/software/qustoch) · [Source](https://github.com/VictorJimenez3/QuStoch)
+
+### 🎒 [TheBackPak](https://devpost.com/software/thebackpak)
+
+A wearable posture coach that tracks movement and gives live feedback through a companion app.
+
+**First Place · HackNJIT 2024**<br>
+[Devpost project](https://devpost.com/software/thebackpak)
+
+### 🔐 [3S Spatial Awareness Assessment](https://devpost.com/software/3s-spacial-awareness-assessment)
+
+A cognitive-assessment prototype exploring encrypted test data and privacy-preserving analysis.
+
+**Best Security Hack · HackRU Fall 2024**<br>
+[Devpost](https://devpost.com/software/3s-spacial-awareness-assessment) · [Source](https://github.com/VictorJimenez3/threesAssessmentDigitized)
+
+## 🏀 NBA analytics
+
+### [Predicting All-NBA selections](https://github.com/VictorJimenez3/CS-375-All-Nba-Team-ML-Classifier)
+
+Can a season's box-score and advanced stats predict the 15 All-NBA selections? I compared logistic regression, Random Forest, and XGBoost, training on pre-2010 seasons and evaluating on 2010 onward. The project explores class imbalance, changing eras, and the limits of stats-only predictions.
+
+[View the project](https://github.com/VictorJimenez3/CS-375-All-Nba-Team-ML-Classifier)
+
+## 🌱 More public hackathon projects
+
+<details>
+<summary><strong>Explore the rest of my hackathon projects</strong></summary>
+
+### 🤖 AI, learning & collaboration
+
+- **[Jova](https://devpost.com/software/jova)**: A shared workspace combining team messaging, file storage, and AI agents with semantic search. Built at HackMIT. [Source](https://github.com/VictorJimenez3/Multi-Agent-Workspace)
+- **[illume](https://devpost.com/software/illume-illuminating-learning-through-context-aware-ai)**: A Chrome learning assistant that turns web reading into contextual explanations, questions, and lessons. [Source](https://github.com/VictorJimenez3/illume)
+- **[TimeAway](https://devpost.com/software/vmj-and-mjt58-placeholder)**: A team project exploring an algorithmic workflow for employee time-off requests.
+- **[AI Recipe Generator](https://devpost.com/software/ai-recipe-generator-xl5w2t)**: Generates recipes from available ingredients, with allergen and calorie information. [Source](https://github.com/VictorJimenez3/AI-Recipe-Generator)
+
+### 🧠 Health, privacy & security
+
+- **[ADPitch](https://github.com/VictorJimenez3/ADPitch)**: A public hackathon prototype pairing sales-call transcription with physiology signals to explore post-call coaching insights.
+- **[Pace](https://devpost.com/software/pace-vcdzxw)**: An AI burnout-prevention concept combining voice memos and stress tracking.
+- **[SynapSense](https://devpost.com/software/synapsense)**: A research-oriented project exploring links between device activity and emotional responses. [Source](https://github.com/VictorJimenez3/SynapSense)
+- **[Quantumly Safe](https://devpost.com/software/q-safe)**: A cybersecurity prototype exploring quantum machine learning for suspicious login and network activity. [Source](https://github.com/VictorJimenez3/Quantumly-Safe)
+
+### 🌍 Climate & finance
+
+- **[GoFundTree](https://devpost.com/software/gofundtree)**: A mobile AR experience for placing virtual trees in city spaces and supporting real-world planting. [Source](https://github.com/VictorJimenez3/GoFundTree)
+
+</details>
+
+## 💻 Tech stack
+
+**Languages**<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**AI, data & frameworks**<br>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**Platforms & hardware**<br>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+## 📊 GitHub stats
+
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorJimenez3&show_icons=true&hide_border=true&theme=dark&include_all_commits=true)
+
+![Most-used languages](https://github-readme-stats.vercel.app/api/top-langs?username=VictorJimenez3&layout=compact&hide_border=true&theme=dark)
+
+## 📬 Let's connect
+
+[LinkedIn](https://www.linkedin.com/in/vmj3/) · [Devpost Portfolio](https://devpost.com/vmj) · [GitHub](https://github.com/VictorJimenez3)
+
+Thanks for stopping by!
